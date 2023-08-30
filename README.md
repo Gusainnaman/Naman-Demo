@@ -1,2 +1,2 @@
 # Naman-Demo
-This is my first git reprository.
+This is my first Git Reprository.
