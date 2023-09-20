@@ -1,4 +1,4 @@
 # Naman-Demo
 This is my first Git Reprository.
 <br>
-Author -- Naman Gusain (Demo-project)
+Author -- Naman Gusain (Demo--project)
